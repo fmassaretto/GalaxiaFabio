@@ -55,9 +55,9 @@
     <Compile Include="Repositorio\RepositorioBase.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Dominio\Dominio.csproj">
+    <ProjectReference Include="..\Dominio\Galaxia.Dominio.csproj">
       <Project>{CE224EB9-3D88-4E46-A4C6-7EF009D28CC3}</Project>
-      <Name>Dominio</Name>
+      <Name>Galaxia.Dominio</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

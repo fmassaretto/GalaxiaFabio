@@ -224,9 +224,9 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Dominio\Dominio.csproj">
+    <ProjectReference Include="..\Dominio\Galaxia.Dominio.csproj">
       <Project>{ce224eb9-3d88-4e46-a4c6-7ef009d28cc3}</Project>
-      <Name>Dominio</Name>
+      <Name>Galaxia.Dominio</Name>
     </ProjectReference>
     <ProjectReference Include="..\Galaxia.Negocios\Galaxia.Negocios.csproj">
       <Project>{29b5335c-2f34-499d-9cbe-4d512f7d34e6}</Project>

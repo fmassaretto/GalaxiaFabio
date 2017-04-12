@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxia.Negocios", "Galaxia
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Dominio", "02 - Dominio", "{859BB582-4F4C-486D-BA8C-3F34B13BCA81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{CE224EB9-3D88-4E46-A4C6-7EF009D28CC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxia.Dominio", "Dominio\Galaxia.Dominio.csproj", "{CE224EB9-3D88-4E46-A4C6-7EF009D28CC3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.1 - Infra", "04.1 - Infra", "{1F3377B8-5C53-4498-9668-121861F82246}"
 EndProject
